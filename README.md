@@ -1,11 +1,11 @@
 # Proyecto Unidad 06 [Aula 05 - Ruta A]
-Este es un proyecto de Silabuz Academy del Curso MPTE BE de la Unidad 06.
+Este es un proyecto de Silabuz Academy del Curso MPTE BE de la Unidad 06. **Uso de la API mediante Cliente API (PostMan, ThunderClient, etc)**
 
 
 ## Proyecto
 Se presenta el endpoint de la función lambda para Mercado Pago
 
-## Uso de la API mediante Cliente API (PostMan, ThunderClient, etc)
+
 
 
 ## Autor ✒️
