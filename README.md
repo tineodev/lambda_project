@@ -3,8 +3,8 @@ Este es un proyecto de Silabuz Academy del Curso MPTE BE de la Unidad 06. **Uso 
 
 
 ## Proyecto
-Se presenta el endpoint de la función lambda para Mercado Pago
-Acceder mediante [link](https://ivvwvyivnmxr747mpoy7v5p5dy0gsjbr.lambda-url.us-east-1.on.aws/)
+- Se presenta el endpoint de la función lambda para Mercado Pago.
+- Acceder mediante [link](https://ivvwvyivnmxr747mpoy7v5p5dy0gsjbr.lambda-url.us-east-1.on.aws/)
 
 
 
