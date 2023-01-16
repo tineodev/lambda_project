@@ -5,7 +5,6 @@ Este es un proyecto de Silabuz Academy del Curso MPTE BE de la Unidad 06.
 ## Proyecto
 Se presenta el endpoint de la función lambda para Mercado Pago
 
-# API
 ## Uso de la API mediante Cliente API (PostMan, ThunderClient, etc)
 
 
