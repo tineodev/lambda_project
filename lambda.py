@@ -27,9 +27,9 @@ def lambda_handler(event, context):
     return {
         "statusCode":200,
         "body": json.dumps({
-            "name": preference_response["response"]["card"]["cardholder"]["name"],
             "status": preference_response["response"]["status"],
             "id": preference_response["response"]["id"],
+            "name": preference_response["response"]["card"]["cardholder"]["name"],
             "status_detail": preference_response["response"]["status_detail"],
         })
     }
